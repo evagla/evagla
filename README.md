@@ -1,4 +1,4 @@
-### Hi there, welcome to my page on github 
+### Hi there, welcome to my page on github :)
 
 <!--
 **evagla/evagla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
